@@ -22,6 +22,12 @@ This folder contains the Custom GPS message definition for the ROS driver.
 
 ---
 
+## Results of analysis
+
+![Walking Data](analysis/outputs/moving/moving_data_gps_data.png)
+
+For more results refer to the [Analysis](analysis/Report%20and%20Analysis/Report.pdf)
+
 ## Running the Node
 
 You can run the gps driver in two main ways:
